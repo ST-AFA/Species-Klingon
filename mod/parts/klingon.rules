@@ -1,0 +1,16 @@
+Parts
+[
+	//********** Klingon Empire ********
+	// Weapons
+	//&<weapons/kli_disruptor_cannon/kli_disruptor_cannon.rules>/Part
+	//&<weapons/kli_torpedolauncher/kli_torpedo_launcher.rules>/Part
+
+	// Energy
+
+	// Engines
+
+	// Shields
+
+	// Misc (basically AI Parts)
+
+]
